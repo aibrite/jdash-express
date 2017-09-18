@@ -1,6 +1,6 @@
 {
     "name": "jdash-express",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "JDash Express",
     "main": "./lib/index.js",
     "types": "./lib/definitions/index.d.ts",
